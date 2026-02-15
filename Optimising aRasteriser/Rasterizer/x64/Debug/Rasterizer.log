@@ -1,0 +1,14 @@
+﻿  raster.cpp
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\mesh.h(250,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\mesh.h(255,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\renderer.h(12,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\raster.cpp(158,69): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\raster.cpp(159,69): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\Rasterizer\raster.cpp(160,69): warning C4305: “参数”: 从“double”到“float”截断
+  Rasterizer.vcxproj -> C:\Users\u5684282\Desktop\修改0\Rasterizer - 2026\x64\Debug\Rasterizer.exe

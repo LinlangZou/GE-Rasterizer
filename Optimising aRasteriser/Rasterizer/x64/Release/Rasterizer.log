@@ -1,0 +1,19 @@
+﻿  raster.cpp
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\mesh.h(197,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\mesh.h(202,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\renderer.h(11,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“raster.cpp”)
+  
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\raster.cpp(261,69): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\raster.cpp(262,69): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\u5684282\Desktop\光栅器优化\Rasterizer\raster.cpp(263,69): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  18 of 980 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Rasterizer.vcxproj -> C:\Users\u5684282\Desktop\光栅器优化\x64\Release\Rasterizer.exe
