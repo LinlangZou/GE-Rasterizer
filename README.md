@@ -39,7 +39,6 @@ Optimising-Rasteriser/
 │   ├── ThreadPool.h        # Thread pool: submitBatch(), waitIdle()
 │   ├── renderer.h / zbuffer.h / colour.h / light.h
 │   └── ...
-├── Report.md               # Full optimisation report and timings
 └── README.md
 ```
 
@@ -73,7 +72,7 @@ Timings are reported as **segment duration (ms)** — one segment per full anima
 | 3 | + Rasterisation SIMD (triangle 8-wide) |
 | 4 | + Tile-based multithreading |
 
-All three scenes show clear speedup across these stages. See **Report.md** (and the report PDF) for the full speedup vs. stage graph and methodology.
+All three scenes show clear speedup across these stages. See the report PDF for the full speedup vs. stage graph and methodology.
 
 ---
 
@@ -84,6 +83,3 @@ University of Warwick — Games Engineering (February 2026)
 
 ---
 
-## License
-
-This project was developed for academic purposes at the University of Warwick. Check with your course for reuse and attribution.
