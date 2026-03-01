@@ -71,8 +71,8 @@ Timings are reported as **segment duration (ms)** — one segment per full anima
 | 2 | + Vertex transform reuse (vertex cache) |
 | 3 | + Rasterisation SIMD (triangle 8-wide) |
 | 4 | + Tile-based multithreading |
-![unnamed](https://github.com/user-attachments/assets/f906568a-f840-426a-8388-996fe6f02377)
 
+![unnamed](https://github.com/user-attachments/assets/f906568a-f840-426a-8388-996fe6f02377)
 
 All three scenes show clear speedup across these stages. See  the report PDF for the full speedup vs. stage graph and methodology. 
 
