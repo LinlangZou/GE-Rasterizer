@@ -73,8 +73,7 @@ Timings are reported as **segment duration (ms)** — one segment per full anima
 | 4 | + Tile-based multithreading |
 
 
-<img width="775" height="459" alt="speedup" src="https://github.com/user-attachments/assets/45906949-5969-47d9-8486-7880135f3bd3" />
-All three scenes show clear speedup across these stages. 
+All three scenes show clear speedup across these stages. See  the report PDF for the full speedup vs. stage graph and methodology. 
 
 ---
 
