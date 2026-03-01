@@ -50,7 +50,7 @@ Optimising-Rasteriser/
 2. Build in **Release** for timings (Debug is unoptimised).
 3. Run the executable; resolution is 1024×768 by default (`renderer.h`).
 
-Thread count is set to **11** in `raster.cpp` (`MT_POOL_SIZE`); change and recompile to match your CPU.
+Thread count is set to **11** in `raster.cpp` (`MT_POOL_SIZE`).
 
 ---
 
