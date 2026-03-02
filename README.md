@@ -2,6 +2,11 @@
 
 A high-performance software rasteriser in C++, optimised with SIMD (SSE4.1 / AVX2), vertex caching, and tile-based multithreading. Built for the Games Engineering module at the University of Warwick.
 
+
+
+https://github.com/user-attachments/assets/f22dd0fe-c29b-4af3-be65-d1ff313c39ab
+
+
 ---
 
 ## Features
