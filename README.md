@@ -4,7 +4,6 @@ A high-performance software rasteriser in C++, optimised with SIMD (SSE4.1 / AVX
 
 
 
-https://github.com/user-attachments/assets/f22dd0fe-c29b-4af3-be65-d1ff313c39ab
 
 
 ---
@@ -76,6 +75,9 @@ Timings are reported as **segment duration (ms)** — one segment per full anima
 | 2 | + Vertex transform reuse (vertex cache) |
 | 3 | + Rasterisation SIMD (triangle 8-wide) |
 | 4 | + Tile-based multithreading |
+
+
+https://github.com/user-attachments/assets/f22dd0fe-c29b-4af3-be65-d1ff313c39ab
 
 ![unnamed](https://github.com/user-attachments/assets/f906568a-f840-426a-8388-996fe6f02377)
 
